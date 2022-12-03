@@ -18,7 +18,7 @@ Plays anything you throw at it on the virtual piano!
 
 
 ### Linux
-1. Download the latest *AutoPiano.py* from the versions folder
+1. Download the latest *AutoPiano.py*
 2. Download the following dependency: `pyautogui`
 
       + Arch-based Linux additional dependencies: `sudo pacman -Syu tk python3`
