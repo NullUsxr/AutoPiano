@@ -12,7 +12,7 @@ Plays anything you throw at it on the virtual piano!
 ### Windows
 1. Download *AutoPiano.py*
 2. Download the following dependency: `pyautogui` (If you want it to work in DirectX games, replace `pyautogui` with `pydirectinput` in the code and install that instead)
-3. Run AutoPiano.py
+3. Run AutoPiano.py (If it doesn't work, running as an Administrator might fix it)
 4. Input your timings & song
 
 
